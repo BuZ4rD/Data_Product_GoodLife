@@ -1,0 +1,12 @@
+name: goodlife
+title:
+username:
+account: buz4rd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2946949
+bundleId: 3704936
+url: https://buz4rd.shinyapps.io/goodlife/
+when: 1601914961.95891
+asMultiple: FALSE
+asStatic: FALSE
