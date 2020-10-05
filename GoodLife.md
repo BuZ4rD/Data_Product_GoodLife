@@ -1,7 +1,7 @@
 Good Life Data Product
 ===
 author: Mathias Barat
-date: Mon Oct 05 18:27:55 2020
+date: Mon Oct 05 18:40:47 2020
 
 Link : https://buz4rd.shinyapps.io/goodlife/
 
@@ -61,4 +61,14 @@ The colors have been also conditioned to the value (red is bad, green if ok...).
 
 Link : https://buz4rd.shinyapps.io/goodlife/
 
-Enjoy !
+
+The 1 dimension GPD is not more relevant
+========================================================
+
+The goal of this data product is to give an innovative way to give a really simple assessment toward the planetary footprints and the global politics of each state.
+
+According to this dataset, it is not clearly possible to have a decent way of life and at the same time respecting mother earth with our today's solutions and ways of life. No country is green on both plans.
+
+The solutions for tomorrow, sustainable and regenerative are still to be designed.
+
+Join us (www.postv.net)
