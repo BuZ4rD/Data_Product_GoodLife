@@ -3,6 +3,8 @@ Good Life Data Product
 author: Mathias Barat
 date: `r date()`
 
+Link : https://buz4rd.shinyapps.io/goodlife/
+
 Good Life Dataset
 ========================================================
 
@@ -55,5 +57,7 @@ The Data product is designed to allow the user to compare 2 countries of the dat
 The Planet Boundaries Values and Social Threshold can be refined within a tickbox panel.
 
 The colors have been also conditioned to the value (red is bad, green if ok...).
+
+Link : https://buz4rd.shinyapps.io/goodlife/
 
 Enjoy !
